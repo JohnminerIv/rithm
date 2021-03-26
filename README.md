@@ -17,4 +17,4 @@ like this.
 <p>then type "python3 -m venv env" to create a virtual enviornment.</p>
 <p>In order to install and update the required pip modules type "pip3 install -r requirements.txt".</p>
 
-<p>Want to try out the deployed application? <a href="http://rithm.dev.john-the-fourth.engineer/">Test it here!</a></p>
+<p>Want to try out the deployed application? <a href="https://rithm.dev.john-the-fourth.engineer/">Test it here!</a></p>
